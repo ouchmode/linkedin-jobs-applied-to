@@ -1,4 +1,4 @@
-# LinkedIn Jobs - Applied & Archived
+# (WIP) LinkedIn Jobs - Applied & Archived
 Scrapes your LinkedIn [Applied](https://www.linkedin.com/my-items/saved-jobs/?cardType=APPLIED) and [Archived](https://www.linkedin.com/my-items/saved-jobs/?cardType=ARCHIVED) jobs.
 
 
